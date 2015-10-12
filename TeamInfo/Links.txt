@@ -1,0 +1,44 @@
+Game Engines
+	Unity3D:			http://unity3d.com/get-unity
+		UnityLearn: 	http://unity3d.com/learn
+		Quill18Creates:	https://www.youtube.com/user/quill18creates
+
+	UnrealEngine4:		https://www.unrealengine.com/
+							(make free account first then download)
+		VideoTutorials:	https://wiki.unrealengine.com/Videos
+
+	GameMaker:			https://www.yoyogames.com/studio/download
+		Tutorials:		https://www.yoyogames.com/learn
+
+
+Art tools
+	3D modeling-
+		Blender:			http://www.blender.org/
+			Blender Cookie:	https://cgcookie.com/blender/
+			Blender Guru:	http://www.blenderguru.com/
+	2D art- 
+		Mischief - Free:	https://www.madewithmischief.com/
+
+		GIMP:				http://www.gimp.org/
+
+		Paint.net:			http://www.getpaint.net/index.html
+
+	Textrues- 
+		CG Textures:		http://www.cgtextures.com/
+
+Programming IDE's
+	MonoDevelop(built into unity)
+
+	VisualStudio Comunity:	https://www.visualstudio.com/products/free-developer-offers-vs?wt.mc_id=p~CO~COMMUNITY~SEARCH~FY15~11Nov~GOOGLE~visual%20studio%20community
+
+	SublimeText:			http://www.sublimetext.com/3
+
+	Eclipse (Java):			https://eclipse.org/downloads/packages/eclipse-ide-java-developers/lunasr2
+
+	Eclipse (c/c++):		https://eclipse.org/downloads/packages/eclipse-ide-cc-developers/lunasr2
+
+Programming Tutorials (ONLY for learning santax)
+	C# : https://www.youtube.com/playlist?list=PLEbaEyM-xt9mVQEAXGlRRmbO2Qp_oqF-n
+	Java : https://www.youtube.com/playlist?list=PL8C951C2EBA637821
+	c++ : https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83
+	JavaScript : https://www.youtube.com/playlist?list=PL46F0A159EC02DF82

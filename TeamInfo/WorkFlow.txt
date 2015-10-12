@@ -1,0 +1,54 @@
+Game Design is a very complicated, mulit-layered, precess.
+To make things easier, I have created these guidelines to follow, through the process of development
+
+PreProduction:
+	Come up with an idea
+		~not too detailed
+		~not too big
+	Develop the idea
+		~write your idea
+		~slowly add stuff to your idea which i directly related to the idea
+
+
+
+Production:
+	"Meshing"
+		Art:
+			all art should be functional art only
+			level design should not be too fancy (there will be time for refinement later)
+		Code:
+			get the most important code done first
+			tackel each problem in steps
+			dont do too much "FutureProofing"
+	"Bulk"
+		Art:
+			start to add textures, materials, and "life" to the level design
+			add "large" detail
+			rough animations
+			create needed models
+		Code:
+			improve functionality and usefullness
+			work on smaller "detail" code
+			work on large bugs
+	"Lighting"
+		Art:
+			this is when you go through and add in all the detail
+			smooth out all the kinks in the art
+			finalize models, textrues, and materials
+			add in proper lighting
+			any other fine tuning needed
+		Code:
+			work on the "Art" code
+				(code that does not directly effect the mechanics, but adds to the over all emersion)
+		Sound:
+			add in the sound effects and start woking on music
+
+	"Refinement"
+		Art:
+			Any small tweaks that need to be added
+			any refinements needed
+		Code:
+			work out the bugs
+			optomization (if any)
+		Sound:
+			refinement
